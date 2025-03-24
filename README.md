@@ -6,8 +6,7 @@ This project uses the SSD (Single Shot MultiBox Detector) model for object detec
 1. [Introduction](#introduction)
 2. [Dataset](#dataset)
 3. [Installation](#installation)
-4. [Usage](#usage)
-5. [License](#license)
+
 
 ## Introduction
 This project implements an object detection system using the SSD model with a custom dataset. The model is trained to detect objects like cars, chairs, and lamp posts in images.
